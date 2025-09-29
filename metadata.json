@@ -1,0 +1,5 @@
+{
+  "name": "NC Insurance Expert - Statement of No Loss",
+  "description": "A web application for insurance agents to generate and send 'Statement of No Loss' forms to customers for electronic signature. The application provides an agent portal to create pre-filled forms and a customer-facing portal to review, sign, and submit the statement.",
+  "requestFramePermissions": []
+}
